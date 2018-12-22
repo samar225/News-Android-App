@@ -1,6 +1,5 @@
 # News-Android-App
-This app displays list of news and articles recived from GUARDIAN API. Dealing with JOSN objects and show it in freindly way to read.
-created in a Udacity course in the Beginning Android Nanodegree.
+This app displays list of news and articles received from GUARDIAN API. Dealing with JOSN objects and show it in friendly way to read. created in a Udacity course in the Beginning Android Nanodegree.
 
 #Pre-requisites
 1. Android SDK v23
